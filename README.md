@@ -22,6 +22,8 @@
 │   ├── main.c
 │   ├── sqrt3.c
 │   └── sqrt3.h
+├── tutorials
+│   └── machines.pdf
 ├── Makefile
 └── README
 ```
@@ -33,3 +35,4 @@
 3. Move over any related code from Assignment 3.
 4. Run using `mpirun -np <numprocs> <COMMAND>`. Remember to use `module load openmpi` when you get an interactive sesion on the PSC machines.
 5. Answer questions on the handout.
+
